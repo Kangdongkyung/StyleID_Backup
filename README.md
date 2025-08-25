@@ -76,7 +76,7 @@ out = rearrange(out, '(b h) n d -> b n (h d)', h=h)
 ### make_mask_npy.py: 마스크 이미지를 입력으로 받아 npy로 만들어주는 코드
 
 ### hf_run.py, high_frequency_final.py: 예령님 설명 참조
-
+------
 # Citation
 
 ```BibTeX
