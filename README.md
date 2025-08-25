@@ -3,6 +3,11 @@
 
 # 설명서
 
+## Inference
+```yaml
+python run_ori.py --cnt data_vis/cnt --sty data_vis/sty
+```
+
 ### data_vis: 실제 inference 시에 사용하는 이미지가 담겨있는 폴더
 
  
